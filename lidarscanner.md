@@ -76,4 +76,4 @@ Cyclone Register 360 ist auch auf jedem anderen Rechner installierbar, als *Lize
 - safe with 0-255 for colors in syntheyes
 
 
-
+![](/images/stairs.jpg)
